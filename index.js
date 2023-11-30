@@ -6,7 +6,7 @@ const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
 
-    const APIKey = '9fb417ecc6ffb7a6d70a2e9fe49fed61';
+    const APIKey = 'Insert your Api Key Here'; //Go on Openweathermap.org generate api key and insert here
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
