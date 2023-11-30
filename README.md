@@ -45,13 +45,13 @@ const apiKey = 'YOUR_API_KEY';
 
 ## Screenshots
 
-![Weather App Screenshot 1](images/screenshot1.png)
+![Weather App Screenshot 1](images/Screenshot_1.png)
 
-![Weather App Screenshot 2](images/screenshot2.png)
+![Weather App Screenshot 2](images/Screenshot_2.png)
 
-![Weather App Screenshot 3](images/screenshot3.png)
+![Weather App Screenshot 3](images/Screenshot_3.png)
 
-![Weather App Screenshot 4](images/screenshot4.png)
+![Weather App Screenshot 4](images/Screenshot_4.png)
 
 ## License
 
